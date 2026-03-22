@@ -1,0 +1,128 @@
+{
+  "title": "Octopath traveler - quel ost pour quel personnage ?",
+  "minimum_score": 6,
+  "success_message": "Félicitations! Une oreille d'expert!",
+  "failure_message": "Dommage! Il reste qu'à jouer au jeu XD.",
+  "questions": [
+    {
+      "question": "OST 1 - une OST pour qui ?",
+      "videoUrl" :  "https://www.youtube.com/embed/k1S0xxTwueQ?si=km1rbxrS6ntkPlS2",
+      "choices": [
+        "Agnea",
+        "Partitio",
+        "Temenos",
+        "Oswald",
+        "Throné",
+        "Ochette",
+        "Castti",
+        "Hikari"
+      ],
+      "correct_answer": "Temenos"
+    },
+    {
+      "question": "OST 2 - une OST pour qui ?",
+      "videoUrl" :  "https://www.youtube.com/embed/sEn-KlIDhRI?si=ACet-YfPZMemk7Pg",
+      "choices": [
+        "Agnea",
+        "Partitio",
+        "Temenos",
+        "Oswald",
+        "Throné",
+        "Ochette",
+        "Castti",
+        "Hikari"
+      ],
+      "correct_answer": "Hikari"
+    },
+    {
+      "question": "OST 3 - une OST pour qui ?",
+      "videoUrl" :  "https://www.youtube.com/embed/tqFhsXPoo0Q?si=FyNm0zcY6iu0L5K9",
+      "choices": [
+        "Agnea",
+        "Partitio",
+        "Temenos",
+        "Oswald",
+        "Throné",
+        "Ochette",
+        "Castti",
+        "Hikari"
+      ],
+      "correct_answer": "Ochette"
+    },
+    {
+      "question": "OST 4 - une OST pour qui ?",
+      "videoUrl" :  "https://www.youtube.com/embed/VrNj2-V4wk4?si=YPAzGr-bV1l1rWRa",
+      "choices": [
+        "Agnea",
+        "Partitio",
+        "Temenos",
+        "Oswald",
+        "Throné",
+        "Ochette",
+        "Castti",
+        "Hikari"
+      ],
+      "correct_answer": "Oswald"
+    },
+    {
+      "question": "OST 5 - une OST pour qui ?",
+      "videoUrl" :  "https://www.youtube.com/embed/HJ9OMKX8gKA?si=FbpXhlVOsGggmGq9",
+      "choices": [
+        "Agnea",
+        "Partitio",
+        "Temenos",
+        "Oswald",
+        "Throné",
+        "Ochette",
+        "Castti",
+        "Hikari"
+      ],
+      "correct_answer": "Throné"
+    },
+    {
+      "question": "OST 6 - une OST pour qui ?",
+      "videoUrl" :  "https://www.youtube.com/embed/ZsD0ZNLjznA?si=iRKazonscyFuvFQC",
+      "choices": [
+        "Agnea",
+        "Partitio",
+        "Temenos",
+        "Oswald",
+        "Throné",
+        "Ochette",
+        "Castti",
+        "Hikari"
+      ],
+      "correct_answer": "Castti"
+    },
+    {
+      "question": "OST 7 - une OST pour qui ?",
+      "videoUrl" :  "https://www.youtube.com/embed/kf8wZlgSfoI?si=WOcMZ6K4YgdMyE3F",
+      "choices": [
+        "Agnea",
+        "Partitio",
+        "Temenos",
+        "Oswald",
+        "Throné",
+        "Ochette",
+        "Castti",
+        "Hikari"
+      ],
+      "correct_answer": "Agnea"
+    },
+    {
+      "question": "OST 8 - une OST pour qui ?",
+      "videoUrl" :  "https://www.youtube.com/embed/hc5r8HqKyc0?si=Gme332oMki3uqokZ",
+      "choices": [
+        "Agnea",
+        "Partitio",
+        "Temenos",
+        "Oswald",
+        "Throné",
+        "Ochette",
+        "Castti",
+        "Hikari"
+      ],
+      "correct_answer": "Partitio"
+    }
+  ]
+}
